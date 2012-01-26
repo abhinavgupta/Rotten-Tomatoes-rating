@@ -1,0 +1,23 @@
+Rotten Tomatoes
+===========
+
+A Python implementation of getting Rotten Tomatoes rating for a movie using
+BeautifulSoup parser library
+
+Usage
+-------------
+
+To get the ratings of a movie in the terminal::
+
+    $ python rottenttomatoes.py Inception
+
+This command is to be written in the folder containing the code.
+The setup.py are under testing and are incomplete, they
+are for making the command portable and help in testing purposes and an better UI
+
+
+Credits
+-------
+
+BeautifulSoup parser library
+
